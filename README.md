@@ -14,7 +14,7 @@ O projeto permite identificar alterações, arquivos novos e arquivos removidos 
 
 
 
-\## Funcionalidades
+# Funcionalidades
 
 
 
