@@ -2,7 +2,7 @@
 
 
 
-\*\*Monitor de Integridade de Arquivos com Python\*\*
+*Monitor de Integridade de Arquivos com Python*
 
 
 
