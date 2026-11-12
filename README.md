@@ -36,7 +36,7 @@ O projeto permite identificar alterações, arquivos novos e arquivos removidos 
 
 
 
-\## Tecnologias
+# Tecnologias
 
 
 
@@ -52,7 +52,7 @@ O projeto permite identificar alterações, arquivos novos e arquivos removidos 
 
 
 
-\## Como utilizar
+# Como utilizar
 
 
 
@@ -60,7 +60,7 @@ Clone o repositório e entre na pasta do projeto.
 
 
 
-\### Criar referência inicial
+## Criar referência inicial
 
 
 
@@ -72,7 +72,7 @@ python fileguard.py baseline
 
 
 
-\### Verificar integridade
+### Verificar integridade
 
 
 
@@ -88,7 +88,7 @@ O FILEGUARD compara os hashes atuais com a referência armazenada em `database.j
 
 
 
-\## Testes automatizados
+## Testes automatizados
 
 
 
@@ -104,7 +104,7 @@ python -m unittest -v
 
 
 
-\## Estrutura do projeto
+## Estrutura do projeto
 
 
 
@@ -128,7 +128,7 @@ FILEGUARD/
 
 
 
-\## Limitações de segurança
+## Limitações de segurança
 
 
 
@@ -144,7 +144,7 @@ O comando `baseline` atualiza a referência e deve ser utilizado somente quando 
 
 
 
-\## Versão
+## Versão
 
 
 
@@ -152,9 +152,10 @@ O comando `baseline` atualiza a referência e deve ser utilizado somente quando 
 
 
 
-\## Autor
+## Autor
+
+Victor Andrey | Estudante de Análise e Desenvolvimento de Sistemas
 
 
 
-Victor Andrey
-
+Victor 
