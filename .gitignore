@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Ambiente virtual
+venv/
+.venv/
+
+# Banco de referência local
+database.json
+
+# Arquivos monitorados do usuário
+monitorados/*
+!monitorados/.gitkeep
